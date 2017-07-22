@@ -1,0 +1,24 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "description": "A simple converter to experiment TDD with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ShockN745/converter_mocha_tdd_tutorial.git"
+  },
+  "keywords": [
+    "tdd",
+    "mocha",
+    "node"
+  ],
+  "author": "Florian Kempenich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShockN745/converter_mocha_tdd_tutorial/issues"
+  },
+  "homepage": "https://github.com/ShockN745/converter_mocha_tdd_tutorial#readme"
+}
